@@ -1,5 +1,5 @@
 <h1 align="center">Oi 👋, Eu sou Raul</h1>
-<h3 align="center">Fissurado por ciência e análise de dados em qualquer ambiente</h3>
+<h3 align="center">Fissurado por ciência e análise de dados em qualquer área do conhecimento</h3>
 
 - 💬 Me pergunte sobre **R, Python, Excel, SQL e Power BI**
 
